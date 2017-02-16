@@ -1,0 +1,18 @@
+Author         : Ivan de Jesus May-Cen
+Email          : imaycen@hotmail.com, imay@itsprogreso.edu.mx
+Language       : C++
+Environment    : Linux
+Compiler       : g++
+Revisions      :
+       Initial : 16.02.2017
+          Last : 
+
+
+El objetivo de estos programas es el de realizar cálculos para
+las sumas inferior y superior de Riemann.
+
+
+
+Este programa compila en la consola de linux mediante la orden
+                 g++ main.cpp -o riemann
+"riemann" es el nombre del ejecutable
